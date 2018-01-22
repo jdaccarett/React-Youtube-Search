@@ -1,1 +1,2 @@
-React Youtube Search App
+#React Youtube Search App
+Stephen Grider Modern React Redux Udemy Course.
